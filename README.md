@@ -181,10 +181,13 @@ SQL-Assignment-1/
 │
 ├── README.md
 │
-├── SQL_Assignment_1.sql
+├── Dataset/
+|     |__ Salesman.sql
+|     |__ Customer.sql
+|     |__ Orders.sql
 │
-└── Dataset/
-    └── README.md
+└── SQL-Assignment-1_Task.sql/
+    └── Task.sql
 ```
 
 
